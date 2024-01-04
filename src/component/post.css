@@ -1,0 +1,13 @@
+.the-post{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../component/asset/web\ asset\ 1.png);
+    background-position: center;
+}
+
+.nopost{
+    color: white;
+}

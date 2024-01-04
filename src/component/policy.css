@@ -1,0 +1,13 @@
+.policy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(2, 0, 34);
+    width: 100%;
+    height: 30vh;
+    color: aliceblue;
+}
+
+.policy-text{
+    width: 70%;
+}
